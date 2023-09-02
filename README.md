@@ -1,6 +1,6 @@
 # TARP-Review-paper
 
-#From Chains to Blocks: How Blockchain Technology is Transforming Criminal Record Keeping.
+# From Chains to Blocks: How Blockchain Technology is Transforming Criminal Record Keeping.
 
 Goal is to Create a high quality review paper 
 
